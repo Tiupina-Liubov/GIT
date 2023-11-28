@@ -1,3 +1,4 @@
+
  1 уровень сложности: 1. Как скопировать на свой компьютер репозиторий из github.com, что должно быть сделано предварительно?
 1. Переходим в терминал.
 2. Проверяем настройки git при помощи команды git config --global -l
@@ -18,7 +19,7 @@
 4. git add .
 5. git commit -m "commentary commit"
 6. Создайом папку на гитхабе.
-7. git remote Ada origin ссилка на репозиторий
+7. git remote add origin ссилка на репозиторий
 8. git branch -M main(если старий гид)
 9. Git push -u origin main
 
